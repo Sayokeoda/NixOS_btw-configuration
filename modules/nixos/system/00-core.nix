@@ -3,8 +3,6 @@
 {
   time.timeZone = "Europe/Madrid";
 
-  console.keyMap = "es";
-
   # Bootloader para UEFI con systemd-boot
   boot.loader.systemd-boot.enable = true;
   boot.loader.efi.canTouchEfiVariables = true;
