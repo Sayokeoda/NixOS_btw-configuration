@@ -8,17 +8,10 @@
     waybar
     rofi-wayland
     grim
-    slurp
-    wl-clipboard
-    mpv
-    imv
-    firefox
-    vlc
     mako
     pipewire
     wireplumber
     xdg-desktop-portal-wlr
-    brightnessctl
     pamixer
     gammastep
   ];
