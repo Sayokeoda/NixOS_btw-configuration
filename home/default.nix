@@ -2,8 +2,8 @@
 
 let dot = ./dotfiles; in
 {
-  home.username = "TU_USUARIO";
-  home.homeDirectory = "/home/TU_USUARIO";
+  home.username = "Sayokeoda";
+  home.homeDirectory = "/home/Sayokeoda";
 
   # No incluimos el contenido de los dotfiles aquí; solo los importamos
   # Crea los archivos en home/dotfiles/ y Home Manager los enlazará.
